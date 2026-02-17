@@ -3,19 +3,19 @@
     "name": "conductor-test-plugin",
     "display_name": "Conductor Test v3",
     "description": "A Conductor-Test Plugin that provision resources in OpenStack using the OpenStack SDK.",
-    "logo_url": "",
+    "logo_url": "https://cloudify.co/wp-content/uploads/2019/08/oslogo.png",
     "version": "3.3.7",
     "yaml_urls": [
       {
         "dsl_version": "cloudify_dsl_1_3",
-        "url": ""
+        "url": "https://github.com/ssrivast21/test-conductor-plugin/releases/download/conductor-test-plugin/conductor-test-plugin.yaml"
       },
     ],
     "wagon_urls": [
       {
         "release": "manylinux",
         "arch": "x86_64",
-        "url": "",
+        "url": "https://github.com/ssrivast21/test-conductor-plugin/releases/download/conductor-test-plugin/conductor_test_plugin-3.3.7-manylinux-py311-none-linux_x86_64.wgn",
         "file_size": 77145700
       }
     ]
