@@ -1,0 +1,23 @@
+[
+  {
+    "name": "conductor-test-plugin",
+    "display_name": "Conductor Test v3",
+    "description": "A Conductor-Test Plugin that provision resources in OpenStack using the OpenStack SDK.",
+    "logo_url": "",
+    "version": "3.3.7",
+    "yaml_urls": [
+      {
+        "dsl_version": "cloudify_dsl_1_3",
+        "url": ""
+      },
+    ],
+    "wagon_urls": [
+      {
+        "release": "manylinux",
+        "arch": "x86_64",
+        "url": "",
+        "file_size": 77145700
+      }
+    ]
+  }
+]
