@@ -1,6 +1,6 @@
 [
   {
-    "name": "conductor-test-plugin",
+    "name": "conductor-openstack-test-plugin",
     "display_name": "Conductor Test v3",
     "description": "A Conductor-Test Plugin that provision resources in OpenStack using the OpenStack SDK.",
     "logo_url": "https://cloudify.co/wp-content/uploads/2019/08/oslogo.png",
@@ -8,14 +8,35 @@
     "yaml_urls": [
       {
         "dsl_version": "cloudify_dsl_1_3",
-        "url": "https://github.com/ssrivast21/test-conductor-plugin/releases/download/conductor-test-plugin/conductor-test-plugin.yaml"
-      },
+        "url": "https://github.com/ssrivast21/test-conductor-plugin/releases/download/conductor-openstack-test-plugin/conductor-openstack-test-plugin.yaml"
+      }
     ],
     "wagon_urls": [
       {
         "release": "manylinux",
         "arch": "x86_64",
-        "url": "https://github.com/ssrivast21/test-conductor-plugin/releases/download/conductor-test-plugin/conductor_test_plugin-3.3.7-manylinux-py311-none-linux_x86_64.wgn",
+        "url": "https://github.com/ssrivast21/test-conductor-plugin/releases/download/conductor-openstack-test-plugin/conductor_openstack_test_plugin-3.3.7-manylinux-py311-none-linux_x86_64.wgn",
+        "file_size": 77145700
+      }
+    ]
+  },
+  {
+    "name": "conductor-kubernetes-test-plugin",
+    "display_name": "Conductor Kubernetes Test v3",
+    "description": "Conductor plugin for packaging Kubernetes microservices in Conductor blueprints",
+    "logo_url": "https://cloudify.co/wp-content/uploads/2020/07/kube-icon.png",
+    "version": "2.13.30",
+    "yaml_urls": [
+      {
+        "dsl_version": "cloudify_dsl_1_3",
+        "url": "https://github.com/ssrivast21/test-conductor-plugin/releases/download/conductor-kubernetes-test-plugin/conductor-kubernetes-test-plugin.yaml"
+      }
+    ],
+    "wagon_urls": [
+      {
+        "release": "manylinux",
+        "arch": "x86_64",
+        "url": "https://github.com/ssrivast21/test-conductor-plugin/releases/download/conductor-kubernetes-test-plugin/conductor_kubernetes_test_plugin-2.13.30-manylinux-py311-none-linux_x86_64.wgn",
         "file_size": 77145700
       }
     ]
