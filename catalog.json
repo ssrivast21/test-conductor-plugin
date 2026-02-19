@@ -4,7 +4,7 @@
     "display_name": "Conductor Openstack Test",
     "description": "A Conductor-Test Plugin that provision resources in OpenStack using the OpenStack SDK.",
     "logo_url": "https://cloudify.co/wp-content/uploads/2019/08/oslogo.png",
-    "version": "3.3.7",
+    "version": "3.3.9",
     "yaml_urls": [
       {
         "dsl_version": "cloudify_dsl_1_3",
