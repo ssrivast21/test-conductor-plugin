@@ -8,14 +8,14 @@
     "yaml_urls": [
       {
         "dsl_version": "cloudify_dsl_1_3",
-        "url": "https://github.com/ssrivast21/test-conductor-plugin/releases/download/conductor-openstack-test-plugin/conductor-openstack-test-plugin.yaml"
+        "url": "https://github.com/ssrivast21/test-conductor-plugin/releases/latest/download/conductor-openstack-test-plugin.yaml"
       }
     ],
     "wagon_urls": [
       {
         "release": "manylinux",
         "arch": "x86_64",
-        "url": "https://github.com/ssrivast21/test-conductor-plugin/releases/download/conductor-openstack-test-plugin/conductor_openstack_test_plugin-3.3.7-manylinux-py311-none-linux_x86_64.wgn",
+        "url": "https://github.com/ssrivast21/test-conductor-plugin/releases/latest/download/conductor_openstack_test_plugin-3.3.7-manylinux-py311-none-linux_x86_64.wgn",
         "file_size": 77145700
       }
     ]
@@ -29,14 +29,14 @@
     "yaml_urls": [
       {
         "dsl_version": "cloudify_dsl_1_3",
-        "url": "https://github.com/ssrivast21/test-conductor-plugin/releases/download/conductor-kubernetes-test-plugin/conductor-kubernetes-test-plugin.yaml"
+        "url": "https://github.com/ssrivast21/test-conductor-plugin/releases/latest/download/conductor-kubernetes-test-plugin.yaml"
       }
     ],
     "wagon_urls": [
       {
         "release": "manylinux",
         "arch": "x86_64",
-        "url": "https://github.com/ssrivast21/test-conductor-plugin/releases/download/conductor-kubernetes-test-plugin/conductor_kubernetes_test_plugin-2.13.30-manylinux-py311-none-linux_x86_64.wgn",
+        "url": "https://github.com/ssrivast21/test-conductor-plugin/releases/latest/download/conductor_kubernetes_test_plugin-2.13.30-manylinux-py311-none-linux_x86_64.wgn",
         "file_size": 77145700
       }
     ]
