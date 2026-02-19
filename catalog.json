@@ -15,7 +15,7 @@
       {
         "release": "manylinux",
         "arch": "x86_64",
-        "url": "https://github.com/ssrivast21/test-conductor-plugin/releases/latest/download/conductor_openstack_test_plugin-3.3.7-manylinux-py311-none-linux_x86_64.wgn",
+        "url": "https://github.com/ssrivast21/test-conductor-plugin/releases/latest/download/conductor_openstack_test_plugin-3.3.9-py311-none-linux_x86_64.wgn",
         "file_size": 77145700
       }
     ]
