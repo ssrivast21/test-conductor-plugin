@@ -1,7 +1,7 @@
 [
   {
     "name": "conductor-openstack-test-plugin",
-    "display_name": "Conductor Test v3",
+    "display_name": "Conductor Openstack Test",
     "description": "A Conductor-Test Plugin that provision resources in OpenStack using the OpenStack SDK.",
     "logo_url": "https://cloudify.co/wp-content/uploads/2019/08/oslogo.png",
     "version": "3.3.7",
@@ -22,7 +22,7 @@
   },
   {
     "name": "conductor-kubernetes-test-plugin",
-    "display_name": "Conductor Kubernetes Test v3",
+    "display_name": "Conductor Kubernetes Test",
     "description": "Conductor plugin for packaging Kubernetes microservices in Conductor blueprints",
     "logo_url": "https://cloudify.co/wp-content/uploads/2020/07/kube-icon.png",
     "version": "2.13.30",
