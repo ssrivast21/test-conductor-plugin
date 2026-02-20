@@ -3,7 +3,7 @@
     "name": "conductor-openstack-test-plugin",
     "display_name": "Conductor Openstack Test",
     "description": "A Conductor-Test Plugin that provision resources in OpenStack using the OpenStack SDK.",
-    "logo_url": "https://cloudify.co/wp-content/uploads/2019/08/oslogo.png",
+    "logo_url": "https://raw.githubusercontent.com/ssrivast21/test-conductor-plugin/HEAD/oslogo.png",
     "version": "3.3.9",
     "yaml_urls": [
       {
@@ -24,8 +24,8 @@
     "name": "conductor-kubernetes-test-plugin",
     "display_name": "Conductor Kubernetes Test",
     "description": "Conductor plugin for packaging Kubernetes microservices in Conductor blueprints",
-    "logo_url": "https://cloudify.co/wp-content/uploads/2020/07/kube-icon.png",
-    "version": "2.13.30",
+    "logo_url": "https://raw.githubusercontent.com/ssrivast21/test-conductor-plugin/HEAD/kube-icon.png",
+    "version": "2.13.32",
     "yaml_urls": [
       {
         "dsl_version": "cloudify_dsl_1_3",
@@ -36,7 +36,7 @@
       {
         "release": "manylinux",
         "arch": "x86_64",
-        "url": "https://github.com/ssrivast21/test-conductor-plugin/releases/latest/download/conductor_kubernetes_test_plugin-2.13.30-manylinux-py311-none-linux_x86_64.wgn",
+        "url": "https://github.com/ssrivast21/test-conductor-plugin/releases/latest/download/conductor_kubernetes_test_plugin-2.13.32-py311-none-linux_x86_64.wgn",
         "file_size": 77145700
       }
     ]
